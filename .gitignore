@@ -1,2 +1,4 @@
 archivo.bas
 otro.bas
+*.log
+registos/
